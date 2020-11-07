@@ -1111,6 +1111,13 @@
   dependencies:
     tslib "^2.0.0"
 
+"@micra/in-memory-storage@^0.0.2":
+  version "0.0.2"
+  resolved "https://registry.yarnpkg.com/@micra/in-memory-storage/-/in-memory-storage-0.0.2.tgz#6495f082865ce10de3ce99938287b57efe81535c"
+  integrity sha512-gPdMjjgCfou/n90AiaGs6Pwo3NktVLBmfhkec1xKZa9J+eJe2rXivgEQt+36glF7MZm8wtRrrVm9W2HmB2Kxvg==
+  dependencies:
+    tslib "^2.0.0"
+
 "@rollup/plugin-replace@^2.3.2":
   version "2.3.3"
   resolved "https://registry.yarnpkg.com/@rollup/plugin-replace/-/plugin-replace-2.3.3.tgz#cd6bae39444de119f5d905322b91ebd4078562e7"
